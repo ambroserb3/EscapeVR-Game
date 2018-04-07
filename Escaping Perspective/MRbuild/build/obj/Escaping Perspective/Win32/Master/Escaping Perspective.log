@@ -1,0 +1,22 @@
+﻿  pch.cpp
+  App.cpp
+  Main.cpp
+  UnityGenerated.cpp
+App.cpp(26): warning C4973: 'Windows::UI::ViewManagement::IApplicationView2::SuppressSystemOverlays::set': marked as deprecated
+  App.cpp(26): note: Message: 'Use the TryEnterFullScreen method and IsFullScreenMode property instead of SuppressSystemOverlays. For more info, see MSDN.'
+  Generating code
+  0 of 160 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Escaping Perspective.vcxproj -> C:\Users\steph\Documents\GitHub\EscapeVR-Game\Escaping Perspective\MRbuild\build\bin\Win32\Master\Escaping Perspective.exe
+GENERATEPROJECTPRIFILE : warning PRI249: 0xdef00520 - Invalid qualifier: DLL-RESOURCES
+GENERATEPROJECTPRIFILE : warning PRI249: 0xdef00520 - Invalid qualifier: DLL-RESOURCES
+GENERATEPROJECTPRIFILE : warning PRI249: 0xdef00520 - Invalid qualifier: DLL-RESOURCES
+GENERATEPROJECTPRIFILE : warning PRI257: 0xdef00522 - Resources found for language(s) 'af' but no resources found for default language(s): ''. Change the default language or qualify resources with the default language. http://go.microsoft.com/fwlink/?LinkId=231899
+GENERATEPROJECTPRIFILE : warning PRI263: 0xdef01051 - No default or neutral resource given for 'Files/Data/GI/level0/afab91e45d140d88cb07de8dadee7a7b.caw'. The application may throw an exception for certain user configurations when retrieving the resources.
+GENERATEPROJECTPRIFILE : warning PRI263: 0xdef01051 - No default or neutral resource given for 'Files/Data/GI/level0/afab91e45d140d88cb07de8dadee7a7b.ecm'. The application may throw an exception for certain user configurations when retrieving the resources.
+GENERATEPROJECTPRIFILE : warning PRI263: 0xdef01051 - No default or neutral resource given for 'Files/Data/GI/level0/afab91e45d140d88cb07de8dadee7a7b.iws.sse'. The application may throw an exception for certain user configurations when retrieving the resources.
+GENERATEPROJECTPRIFILE : warning PRI263: 0xdef01051 - No default or neutral resource given for 'Files/Data/GI/level0/afab91e45d140d88cb07de8dadee7a7b.rgb'. The application may throw an exception for certain user configurations when retrieving the resources.
+GENERATEPROJECTPRIFILE : warning PRI263: 0xdef01051 - No default or neutral resource given for 'Files/Data/GI/level0/afab91e45d140d88cb07de8dadee7a7b.rsc.sse'. The application may throw an exception for certain user configurations when retrieving the resources.
+GENERATEPROJECTPRIFILE : warning PRI263: 0xdef01051 - No default or neutral resource given for 'Files/Data/GI/level0/afab91e45d140d88cb07de8dadee7a7b.vis'. The application may throw an exception for certain user configurations when retrieving the resources.

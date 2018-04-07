@@ -563,11 +563,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Escaping Perspective
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: C:\Users\steph\Documents\GitHub\EscapeVR-Game\Escaping Perspective\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 00fbe095b5edd401
   metroApplicationDescription: Escaping Perspective
   wsaImages: {}
   metroTileShortName: 

@@ -1,0 +1,7 @@
+﻿  Building GameAssembly.dll with MsvcWinRtToolChain.
+  	Output directory: C:\Users\steph\Documents\GitHub\EscapeVR-Game\Escaping Perspective\MRbuild\build\bin\Win32\Master
+  	Cache directory: C:\Users\steph\Documents\GitHub\EscapeVR-Game\Escaping Perspective\MRbuild\build\obj\il2cppOutputProject\Win32\Master
+  ObjectFiles: 541 of which compiled: 0
+  Total compilation time: 402 milliseconds.
+  Encoding map file using command: C:\Users\steph\Documents\GitHub\EscapeVR-Game\Escaping Perspective\MRbuild\Il2CppOutputProject\IL2CPP\MapFileParser\MapFileParser.exe -format=MSVC "C:\Users\steph\Documents\GitHub\EscapeVR-Game\Escaping Perspective\MRbuild\build\bin\Win32\Master\GameAssembly.map" "C:\Users\steph\Documents\GitHub\EscapeVR-Game\Escaping Perspective\MRbuild\build\bin\Win32\Master\SymbolMap"
+  Cleaned up 1 object files.
